@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+# sqlalchemy
+celery[redis]
+sqlalchemy[asyncio]
+asyncpg
+pandas
+openpyxl
+imap-tools
+# celery
+redis
+alembic
+python-dotenv
